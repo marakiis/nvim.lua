@@ -23,5 +23,5 @@ vim.keymap.set('n', '<leader>pv', vim.cmd.Ex)
 
 -- Hide highlight on `esc`
 -- enable if hlsearch is true
--- vim.keymap.set('n', '<Esc>', '<cmd>nohlsearch<CR>')
+vim.keymap.set('n', '<Esc>', '<cmd>nohlsearch<CR>')
 

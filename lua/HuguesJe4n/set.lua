@@ -32,8 +32,8 @@ vim.opt.expandtab = true
 -- Enable smart indent
 vim.opt.smartindent = true
 
--- Wrap line
-vim.opt.wrap = true
+-- Do not wrap line
+vim.opt.wrap = false
 
 -- Show tabs, trailing spaces and nonsec spaces
 vim.opt.list = true
